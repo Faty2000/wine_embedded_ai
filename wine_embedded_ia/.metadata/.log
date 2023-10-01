@@ -1,0 +1,19 @@
+!SESSION 2023-10-01 15:07:37.085 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  C:\wine_embedded_ia\wine\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\wine_embedded_ia\wine\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-01 15:08:40.542
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-01 15:08:40.821
+!MESSAGE Log4j initialized with config file C:\wine_embedded_ia\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-01 15:08:52.850
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-01 15:09:07.417
+!MESSAGE Indexed 'wine' (43 sources, 180 headers) in 10,5 sec: 18 813 declarations; 89 356 references; 11 unresolved inclusions; 415 syntax errors; 2 730 unresolved names (2,5 %)
