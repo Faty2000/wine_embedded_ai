@@ -29,7 +29,7 @@ Le modèle a été entraîné avec une fonction de perte MSE et un optimiseur Ad
 ### Graphiques de Performance
 Voir `loss_x_epoch.png` pour la courbe de perte d'entraînement et de validation au fil des époques. Cette courbe nous aide à comprendre comment notre modèle apprend et s'il y a un surajustement.
 
-![graph2](images/loss x epoch.png)
+![graph2](images/loss_x_epoch.png)
 
 ### Commentaires sur les Graphiques
 - Les valeurs de perte sur l'ensemble de validation sont relativement basses, ce qui indique que le modèle généralise bien aux données non vues.
@@ -65,7 +65,7 @@ Le modèle a été entraîné avec une fonction de perte MSE et un optimiseur Ad
 
 ## Résultats
 ### Graphiques de Performance
-Voir `loss x poch.png` pour la courbe de perte d'entraînement et de validation au fil des époques. Cette courbe nous aide à comprendre comment notre modèle apprend et s'il y a un surajustement.
+Voir `loss_x_poch.png` pour la courbe de perte d'entraînement et de validation au fil des époques. Cette courbe nous aide à comprendre comment notre modèle apprend et s'il y a un surajustement.
 
 ### Commentaires sur les Graphiques
 - Les valeurs de perte sur l'ensemble de validation sont relativement basses, ce qui indique que le modèle généralise bien aux données non vues.
